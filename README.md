@@ -21,8 +21,8 @@ Recent disruptions in the banking sector has had significant domino effects on c
 
 # Outline of the notebook
 >###   Problem Definition
-###   Data Gathering (Assembly)
-###   Data Preparation for an indepth analysis
-###   Exploratory Analysis of Data
+>###   Data Gathering (Assembly)
+>###   Data Preparation for an indepth analysis
+>###   Exploratory Analysis of Data
 
 
